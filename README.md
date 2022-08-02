@@ -1,5 +1,7 @@
 Aplikasi alarm menggunakan flutter
 
+digunakan sebagai tugas besar pemrograman mobile umm
+
 kali ini saya akan mempresentasikan program aplikasi yang saya buat yaitu sebuah aplikasi alarm referensi belajar saya sendiri yaitu dari channel youtube CodeX
 
 Untuk pendukung perangkatnya sebagai berikut
